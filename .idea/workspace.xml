@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="92022be8-cbf6-4bdd-af31-db62f5e78393" name="Default Changelist" comment="数据结构与算法学习之路">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/algo-notes/AddOne.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/algo-notes/ClockPrintMatrix.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/algo-notes/FindTheOnlyOfStr.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/algo-notes/LetterHeterotWord.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/algo-notes/MatrixClockwisely.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/algo-notes/PalindromeString.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/algo-notes/RecoveLon.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/algo-notes/SumOfTwoNumber.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/algo-notes/Until/ListNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/algo-notes/Xuanzhuantuxiang.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClockPrintMatrix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Xuanzhuantuxiang.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Xuanzhuantuxiang.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/develop/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="D:\develop\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UYWKIG0CXSj0mMBnHbw0lbWJHV" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../DesignMode" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\workspace\algo-notes" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ClockPrintMatrix">
+    <configuration name="ClockPrintMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ClockPrintMatrix" />
+      <module name="algo-notes" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Xuanzhuantuxiang" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Xuanzhuantuxiang" />
+      <module name="algo-notes" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ClockPrintMatrix" />
+        <item itemvalue="Application.Xuanzhuantuxiang" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="92022be8-cbf6-4bdd-af31-db62f5e78393" name="Default Changelist" comment="" />
+      <created>1575533943424</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575533943424</updated>
+      <workItem from="1575533950142" duration="1272000" />
+      <workItem from="1575535352740" duration="1573000" />
+      <workItem from="1575538001310" duration="2648000" />
+      <workItem from="1575619274678" duration="776000" />
+      <workItem from="1575623301602" duration="2354000" />
+      <workItem from="1575854593720" duration="598000" />
+      <workItem from="1575876913001" duration="4408000" />
+      <workItem from="1575941762739" duration="2425000" />
+      <workItem from="1575960568593" duration="606000" />
+    </task>
+    <task id="LOCAL-00001" summary="数据结构与算法学习之路">
+      <created>1575535245772</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1575535245772</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="数据结构与算法学习之路" />
+    <option name="LAST_COMMIT_MESSAGE" value="数据结构与算法学习之路" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="491" y="18" key="CommitChangelistDialog2" timestamp="1575535244321">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="491" y="18" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1575535244321" />
+    <state x="93" y="93" width="1350" height="638" key="DiffContextDialog" timestamp="1575535749807">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="93" y="93" width="1350" height="638" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1575535749807" />
+    <state x="549" y="170" key="FileChooserDialogImpl" timestamp="1575877533776">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="170" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1575877533776" />
+    <state width="1493" height="208" key="GridCell.Tab.0.bottom" timestamp="1575944906742">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="208" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1575944906742" />
+    <state width="1493" height="208" key="GridCell.Tab.0.center" timestamp="1575944906742">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="208" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1575944906742" />
+    <state width="1493" height="208" key="GridCell.Tab.0.left" timestamp="1575944906742">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="208" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1575944906742" />
+    <state width="1493" height="208" key="GridCell.Tab.0.right" timestamp="1575944906742">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="208" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1575944906742" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1575620313299">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1575620313299" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1575620313298">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1575620313298" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1575620313298">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1575620313298" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1575620313298">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1575620313298" />
+    <state x="582" y="125" key="RollbackChangesDialog" timestamp="1575878090646">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="582" y="125" key="RollbackChangesDialog/0.0.1536.824@0.0.1536.824" timestamp="1575878090646" />
+    <state x="272" y="57" key="SettingsEditor" timestamp="1575944713652">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="272" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1575944713652" />
+    <state x="361" y="148" key="Vcs.Push.Dialog.v2" timestamp="1575535252538">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="148" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1575535252538" />
+  </component>
+</project>
