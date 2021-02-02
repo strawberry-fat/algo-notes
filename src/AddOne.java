@@ -1,5 +1,6 @@
 /**
- * 加一
+ * 加一：
+ * https://leetcode-cn.com/problems/plus-one/
  * 给定一个由整数组成的非空数组所表示的非负整数，在该数的基础上加一。
  *
  * 最高位数字存放在数组的首位， 数组中每个元素只存储单个数字。
@@ -17,8 +18,9 @@ public class AddOne {
                 digits = new int[digits.length+1];
                 digits[0] = 1;
             }
-            if(add == 0)
+            if(add == 0) {
                 break;
+            }
         }
         return digits;
     }
